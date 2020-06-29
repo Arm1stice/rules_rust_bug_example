@@ -1,0 +1,12 @@
+[package]
+name = "rust_example"
+version = "0.1.0"
+authors = ["Wyatt Calandro <wcalandro@google.com>"]
+edition = "2018"
+
+[lib]
+path = "../src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
